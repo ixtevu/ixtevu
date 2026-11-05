@@ -1,128 +1,33 @@
+# Olá, eu sou o Estevão! 👋
 
-
-\<div align="center">
-
-# Olá, eu sou Estevão Aguis! 👋
-
-### 💻 Computer Science Student 
-
-Estudante de **Ciência da Computação**, apaixonado por tecnologia, programação e inovação. Atualmente, estou desenvolvendo minhas habilidades em desenvolvimento de software, explorando novas tecnologias e transformando ideias em projetos.
-
-
-
-\</div>
+Desenvolvedor focado em soluções mobile e software, trabalhando com **Flutter, Dart e Java**. Apaixonado por criar aplicações funcionais, com boas práticas de arquitetura e armazenamento de dados.
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Graduando em Ciência da Computação — 4º período.
-- 💻 Estudando desenvolvimento de software e engenharia de sistemas.
-- 📱 Explorando desenvolvimento mobile com Flutter e Dart.
-- 🤖 Interessado em Inteligência Artificial e automação.
-- 📚 Sempre aprendendo e buscando novos desafios.
-- 🎯 Em busca da minha primeira oportunidade profissional na área de tecnologia.
+### 🛠️ Tecnologias & Ferramentas
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-**Linguagens de programação**
-
-
-
-
-\
-
-
-**Desenvolvimento e ferramentas**
-
-
-
-
-
-
-\
-
+### 📌 Projetos em Destaque
+- 💰 **[controle-finan-as](https://github.com/ixtevu/controle-finan-as)**: Aplicativo de controle financeiro pessoal desenvolvido em Flutter com SQLite (SQFlite) e Provider.
 
 ---
 
-## 📂 Projetos em destaque
+### 📊 Estatísticas do GitHub
 
-### 💰 Controle de Finanças
-
-Aplicativo de controle financeiro desenvolvido com Dart e Flutter, com foco em organização de despesas, receitas e acompanhamento financeiro.
-
-**Tecnologias:** Dart • Flutter
-
-### 🛒 CompreJá
-
-Projeto de aplicação web desenvolvido utilizando PHP e Laravel, explorando conceitos de desenvolvimento backend, APIs, banco de dados e gerenciamento de informações.
-
-**Tecnologias:** PHP • Laravel • SQLite • APIs
-
-[🔗 Acessar repositório](https://github.com/ixtevu/compreja2)
-
-### 🤖 Transforme suas Aulas com IA
-
-Projeto acadêmico voltado à capacitação de professores para utilização prática da Inteligência Artificial no ambiente educacional.
-
-**Área:** Inteligência Artificial • Educação • Tecnologia
-
-### 🌐 Projeto CAPS
-
-Desenvolvimento de uma solução web informativa para facilitar o acesso da população às informações sobre o CAPS de Matipó.
-
-**Área:** Desenvolvimento Web • Tecnologia e impacto social
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ixtevu&show_icons=true&theme=radial" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixtevu&layout=compact&theme=radial" height="150" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-\<div align="center">
-
-
-
-
-
-
-
-\</div>
-
----
-
-## 🌎 Vamos nos conectar?
-
-Estou sempre aberto a aprender, compartilhar conhecimento e conhecer novas oportunidades na área de tecnologia.
-
-\<div align="center">
-
-
-
-\</div>
-
----
-
-\<div align="center">
-
-*"Dream until your dreams come true."* ✨
-
-**Obrigado pela visita!** 🚀
-
-\</div>
-
-
-<!--
-**ixtevu/ixtevu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Como me encontrar
+- **LinkedIn:** [Estevão Aguis](https://www.linkedin.com/in/estev%C3%A3o-aguis/)
+- **Instagram:** [@istevu_](https://www.instagram.com/istevu_/)
+- **E-mail:** estevaosouzaaguis@gmail.com
