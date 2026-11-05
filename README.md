@@ -18,13 +18,6 @@ Desenvolvedor focado em soluções mobile e software, trabalhando com **Flutter,
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ixtevu&show_icons=true&theme=radial" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixtevu&layout=compact&theme=radial" height="150" alt="Linguagens mais usadas" />
-</div>
-
 ---
 
 ### 📫 Como me encontrar
